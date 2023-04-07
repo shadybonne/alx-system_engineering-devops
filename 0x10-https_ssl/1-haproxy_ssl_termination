@@ -41,5 +41,5 @@ frontend http
 
 backend web-backend
         balance roundrobin
-        server 66098-web-01 35.174.208.87:80 check
-        server 66098-web-02 100.26.214.84:80 check
+        server 66098-web-01 54.146.82.110:80 check
+        server 66098-web-02 52.3.251.45:80 check
