@@ -7,7 +7,9 @@ This question is a good test of whether you understand DNS. Many software engine
 
 Write a blog post explaining what happens when you type https://www.google.com in your browser and press Enter.
 
+
 Requirements, your post must cover:
+___________________________________________________
 
 DNS request
 TCP/IP
