@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 #run a command as an especific user
 
-sudo -u "$1" whoami
+sudo "$1" -s /bin/bash -c 'whoami'
